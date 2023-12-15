@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif))](https://rishavchanda.io)
+[![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vikry Panca Julnadi</h1>
 <h3 align="center">A passionate fullstack developer from indonesia</h3>
