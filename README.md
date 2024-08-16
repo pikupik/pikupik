@@ -1,7 +1,7 @@
 [![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vikry Panca Julnadi</h1>
-<h3 align="center">A passionate fullstack developer from indonesia</h3>
+<h3 align="center">A passionate Developer in mobile phone from indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikupik&label=Profile%20views&color=0e75b6&style=flat" alt="pikupik" /> </p>
 
@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on **Warehouse Management System**
 
 - 🌱 I’m currently learning **React, Next JS, Laravel, Unreal Engine**
-
-- 👯 I’m looking to collaborate on [Termux Packages](https://github.com/termux/termux-packages)
 
 - 📫 My Portfolio [https://portfolio-react-vck.vercel.app/](https://portfolio-react-vck.vercel.app/)
 
