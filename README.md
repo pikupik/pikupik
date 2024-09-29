@@ -1,7 +1,7 @@
 [![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vikry Panca Julnadi</h1>
-<h3 align="center">A passionate Developer in mobile phone from Indonesia</h3>
+<h3 align="center">A passionate backend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pikupik&label=Profile%20views&color=0e75b6&style=flat" alt="pikupik" /> </p>
 
