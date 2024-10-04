@@ -7,15 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pikupik" alt="pikupik" /></a> </p>
 
-- 🔭 I’m currently working on **POS WITH INVENTORY MANAGEMENT**
-
 - 🌱 I’m currently learning **Astro.py**
-
-- 📫 My Portfolio [https://portfolio-react-vck.vercel.app/](https://portfolio-react-vck.vercel.app/)
-
-- 🥇 My Certificate [https://www.dicoding.com/certificates/6RPN1MWYQX2M](https://www.dicoding.com/certificates/6RPN1MWYQX2M)
-
-- 💬 Ask me about **All About Programming Languages**
 
 - 📫 How to reach me **pancavickry@gmail.com**
 
