@@ -1,5 +1,3 @@
-[![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Vikry Panca Julnadi</h1>
 <h3 align="center">A Passionate Backend Developer from Indonesia</h3>
 
@@ -66,7 +64,7 @@
   <a href="mailto:pancavickry@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/vikrypanca">
+  <a href="https://id.linkedin.com/in/vikry-panca-305b33293">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pikupik">
