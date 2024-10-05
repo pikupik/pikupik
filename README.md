@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vikry Panca Julnadi</h1>
+<h1 align="center">Known as pik</h1>
 <h3 align="center">A Passionate Backend Developer from Indonesia</h3>
 
 <p align="center">
