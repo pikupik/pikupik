@@ -14,7 +14,7 @@
 ### 🌟 About Me:
 
 - 🔭 I’m currently working on **Backend Systems and API Development**.
-- 🌱 I’m learning **Astro.py** and building data-driven apps.
+- 🌱 I’m learning **Astro.py** and learning astronomy data.
 - 💬 Ask me about **Node.js, Express, SQL, RESTful APIs**.
 - 📫 Reach me via **pancavickry@gmail.com**.
 - ⚡ Fun fact: **I think I can make everyone laugh** 😄.
