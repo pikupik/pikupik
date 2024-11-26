@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **Backend Systems and API Development**.
 - 🌱 I’m learning **Astro.py** and learning astronomy data.
 - 💬 Ask me about **Node.js, Express, SQL, RESTful APIs**.
-- 📫 Reach me via **pancavickry@gmail.com**.
+- 📫 Reach me via **pikupik.work@gmail.com**.
 - ⚡ Fun fact: **I think I can make everyone laugh** 😄.
 
 ---
@@ -61,7 +61,7 @@
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="mailto:pancavickry@gmail.com">
+  <a href="mailto:pikupik.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/pikupik">
