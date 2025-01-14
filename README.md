@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/pikupik?color=yellow&label=Stars&logo=github&style=flat-square" alt="stars" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+and+Express+Specialist;REST+API+Architect;Passionate+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Backend+Developer;Data+Scientist;REST+API+Architect;Passionate+Learner)](https://git.io/typing-svg)
 
 ---
 
