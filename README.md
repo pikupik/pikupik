@@ -64,7 +64,7 @@
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="mailto:pikupik.work@gmail.com">
+  <a href="mailto:pancavickry@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/pikupik">
