@@ -17,9 +17,9 @@
 ### 🌟 About Me:
 
 - 🔭 I’m currently working on **Backend Systems and API Development**.
-- 🌱 I’m learning **Astro.py** and learning astronomy data.
+- 🌱 I’m learning **Scikit, tensorflow, pytorch, Deep Learning, Machine Learning**.
 - 💬 Ask me about **Node.js, Express, SQL, RESTful APIs**.
-- 📫 Reach me via **pikupik.work@gmail.com**.
+- 📫 Reach me via **pancavickry@gmail.com**.
 - ⚡ Fun fact: **I think I can make everyone laugh** 😄.
 
 ---
