@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pikupik&label=Profile%20views&color=0e75b6&style=flat-square" alt="pikupik" /> 
-  <img src="https://img.shields.io/github/followers/pikupik?color=blue&label=Followers&logo=github&style=flat-square" alt="followers" />
   <img src="https://img.shields.io/github/stars/pikupik?color=yellow&label=Stars&logo=github&style=flat-square" alt="stars" />
 </p>
 
